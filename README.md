@@ -24,7 +24,7 @@ To get this project up and running on your local machine, follow these steps:
 1. Clone or download this repository to your local machine (if you haven't already).
 
    ```bash
-   git clone https://github.com/your-username/your-food-app.git
+   https://github.com/Raviyadav8092/AlloHealth.git
 
 
 2. npm install
